@@ -1,0 +1,9 @@
+{
+  "name": "LoomResearch",
+  "version": "0.1.0",
+  "description": "Interconnected research organizer.",
+  "main": "index.js",
+  "repository": "https://github.com/Ross-Esmond/loomresearch.git",
+  "author": "Ross Esmond <r.esmond@protonmail.com>",
+  "license": "MIT"
+}
